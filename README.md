@@ -10,7 +10,7 @@ Transformando ideias em soluções através da tecnologia.
 
 ---
 
-## ♡ Sobre mim
+## Sobre mim :)
 
 Olá! Sou estudante de *Análise e Desenvolvimento de Sistemas*, apaixonada por tecnologia e pelo universo da programação.
 
@@ -35,7 +35,7 @@ Atualmente, meu foco está no desenvolvimento web, lógica de programação e co
 
 ---
 
-## ♡ Projetos em desenvolvimento
+##  Projetos em desenvolvimento
 
 - *Vallontano | Loja de Vinhos:* projeto web utilizando PHP e MySQL.
 - *Projetos acadêmicos:* exercícios e aplicações desenvolvidos durante minha graduação.
