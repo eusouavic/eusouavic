@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ VITÓRIA CRISTINA ✦
+# ✦ VITÓRIA ✦
 
 ### Desenvolvedora em formação | Análise e Desenvolvimento de Sistemas
 
