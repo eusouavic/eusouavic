@@ -55,6 +55,18 @@ Exercícios e aplicações desenvolvidos durante a graduação em ADS.
 Pequenos projetos para praticar lógica de programação e desenvolvimento web.
 ---
 
+---
+
+## ✦ GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=eusouavic&show_icons=true&hide_border=true&bg_color=0D0B0C&title_color=D6B98C&text_color=F3EDE5&icon_color=8B2635&include_all_commits=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusouavic&layout=compact&hide_border=true&bg_color=0D0B0C&title_color=D6B98C&text_color=F3EDE5"/>
+
+</div>
+
 ## ☕ Um pouco mais sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
