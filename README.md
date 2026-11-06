@@ -51,7 +51,6 @@ Exercícios e aplicações desenvolvidos durante a graduação em ADS.
 
 ### 💻 Estudos e projetos pessoais
 Pequenos projetos para praticar lógica de programação e desenvolvimento web.
----
 
 ---
 
