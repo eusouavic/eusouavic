@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="banner-github.png" width="100%" alt="Banner de apresentação">
+</div>
+
+<br>
+
+<div align="center">
 
 # ✦ VITÓRIA ✦
 
