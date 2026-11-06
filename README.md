@@ -41,12 +41,18 @@ Atualmente, meu foco está no desenvolvimento web, lógica de programação e co
 
 ---
 
-##  Projetos em desenvolvimento
+## Projetos em destaque
 
-- *Vallontano | Loja de Vinhos:* projeto web utilizando PHP e MySQL.
-- *Projetos acadêmicos:* exercícios e aplicações desenvolvidos durante minha graduação.
-- *Estudos de programação:* projetos práticos para aprimorar minha lógica e conhecimentos.
+### 🍷 Vallontano | Loja de Vinhos
+Loja virtual desenvolvida com PHP, MySQL, HTML e CSS.
 
+🔗 [Acessar repositório](https://github.com/eusouavic/Vallontano_Oficial)
+
+### 🎓 Projetos acadêmicos
+Exercícios e aplicações desenvolvidos durante a graduação em ADS.
+
+### 💻 Estudos e projetos pessoais
+Pequenos projetos para praticar lógica de programação e desenvolvimento web.
 ---
 
 ## ☕ Um pouco mais sobre mim
