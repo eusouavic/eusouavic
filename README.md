@@ -22,8 +22,6 @@ Olá! Sou estudante de *Análise e Desenvolvimento de Sistemas*, apaixonada por 
 
 Estou construindo minha jornada na área de desenvolvimento, explorando novas tecnologias e desenvolvendo projetos que me permitem transformar conhecimentos em experiências práticas.
 
-Atualmente, meu foco está no desenvolvimento web, lógica de programação e construção de aplicações.
-
 ---
 
 ## ⚙️ Tecnologias e ferramentas
